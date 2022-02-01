@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SeismoSafe/static/css/main.7decb329.css",
-    "main.js": "/SeismoSafe/static/js/main.1e740f6e.js",
-    "static/js/787.ccdb7409.chunk.js": "/SeismoSafe/static/js/787.ccdb7409.chunk.js",
+    "main.css": "/SeismoSafe/static/css/main.90cd1652.css",
+    "main.js": "/SeismoSafe/static/js/main.d3db1e5e.js",
+    "static/js/787.ddc0a0d6.chunk.js": "/SeismoSafe/static/js/787.ddc0a0d6.chunk.js",
     "static/media/hero.svg": "/SeismoSafe/static/media/hero.e616db28c982b0f48e88578d344567cf.svg",
     "index.html": "/SeismoSafe/index.html",
-    "main.7decb329.css.map": "/SeismoSafe/static/css/main.7decb329.css.map",
-    "main.1e740f6e.js.map": "/SeismoSafe/static/js/main.1e740f6e.js.map",
-    "787.ccdb7409.chunk.js.map": "/SeismoSafe/static/js/787.ccdb7409.chunk.js.map"
+    "main.90cd1652.css.map": "/SeismoSafe/static/css/main.90cd1652.css.map",
+    "main.d3db1e5e.js.map": "/SeismoSafe/static/js/main.d3db1e5e.js.map",
+    "787.ddc0a0d6.chunk.js.map": "/SeismoSafe/static/js/787.ddc0a0d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7decb329.css",
-    "static/js/main.1e740f6e.js"
+    "static/css/main.90cd1652.css",
+    "static/js/main.d3db1e5e.js"
   ]
 }
