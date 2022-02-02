@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SeismoSafe/static/css/main.f6fecc25.css",
-    "main.js": "/SeismoSafe/static/js/main.5f87d5ab.js",
+    "main.js": "/SeismoSafe/static/js/main.72d67661.js",
     "static/js/787.ddc0a0d6.chunk.js": "/SeismoSafe/static/js/787.ddc0a0d6.chunk.js",
     "index.html": "/SeismoSafe/index.html",
     "main.f6fecc25.css.map": "/SeismoSafe/static/css/main.f6fecc25.css.map",
-    "main.5f87d5ab.js.map": "/SeismoSafe/static/js/main.5f87d5ab.js.map",
+    "main.72d67661.js.map": "/SeismoSafe/static/js/main.72d67661.js.map",
     "787.ddc0a0d6.chunk.js.map": "/SeismoSafe/static/js/787.ddc0a0d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6fecc25.css",
-    "static/js/main.5f87d5ab.js"
+    "static/js/main.72d67661.js"
   ]
 }
